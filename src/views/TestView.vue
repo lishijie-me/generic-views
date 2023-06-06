@@ -3,15 +3,15 @@
     <table>
       <tr>
         <td>编号</td>
-        <td>菜单名</td>
-        <td>父节点</td>
-        <td>请求编号</td>
+        <td>用戶名</td>
+        <td>電話</td>
+        <td>地址</td>
       </tr>
       <tr v-for="(item,index) in tests">
         <td>{{index}}</td>
-        <td>{{item.menuName}}</td>
-        <td>{{item.parentId}}</td>
-        <td>{{item.orderNum}}</td>
+        <td>{{item.username}}</td>
+        <td>{{item.phone}}</td>
+        <td>{{item.address}}</td>
       </tr>
     </table>
 
