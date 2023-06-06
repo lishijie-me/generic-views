@@ -6,9 +6,9 @@
     </p>
     <h2>repo list</h2>
     <ul>
-      <li><a href="https://github.com/shijiev" target="_blank" rel="noopener">成真</a></li>
-      <li><a href="https://github.com/shijiev?tab=repositories" target="_blank" rel="noopener">仓库列表</a></li>
-      <li><a href="https://github.com/shijiev/shj-shop" target="_blank" rel="noopener">我的商店</a></li>
+      <li>我的主页：<a href="https://github.com/shijiev" target="_blank" rel="noopener">成真</a></li><br>
+      <li>仓库列表：<a href="https://github.com/shijiev?tab=repositories" target="_blank" rel="noopener">仓库列表</a></li><br>
+      <li>我的商店：<a href="https://github.com/shijiev/shj-shop" target="_blank" rel="noopener">我的商店</a></li><br>
     </ul>
     <!--
 
